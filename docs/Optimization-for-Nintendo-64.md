@@ -59,7 +59,7 @@ wget http://websitewithtexturepack/texturepack.zip
 sudo unzip texturepack.zip
 ```
 
-Texture packs are available for download [here](http://textures.emulation64.com/index.php?id=downloads).
+Texture packs are available for download [here](http://www.emulation64.com/files/category/20/119/nintendo-64-texture-packs.html/).
 
 The folder name in that directory must match the core name in the rom header or the texture pack will not be properly applied.Most cases the default directory name is ok but you may need to check if you find if your rom is not correctly launching the texture pack. 
 
